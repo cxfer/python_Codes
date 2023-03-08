@@ -1,0 +1,6 @@
+dan=open('password_change_code.py','r')
+print(dan)
+dan is a cool guy
+hacking is one of the passions dan got
+isnt it true to say nothing is hard to do with strong self motivation
+well ask dan
